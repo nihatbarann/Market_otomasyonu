@@ -1,0 +1,72 @@
+D:\nihatbaran\nihatbaran\bin\Debug\nihatbaran.exe.config
+D:\nihatbaran\nihatbaran\bin\Debug\nihatbaran.exe
+D:\nihatbaran\nihatbaran\bin\Debug\nihatbaran.pdb
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.csproj.AssemblyReference.cache
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.csproj.SuggestedBindingRedirects.cache
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.AnaForm.resources
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.MusteriTanim.resources
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.Properties.Resources.resources
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.csproj.GenerateResource.cache
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.csproj.CoreCompileInputs.cache
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.exe
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.pdb
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.MusteriListesi.resources
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.urunListesi.resources
+D:\nihatbaran\nihatbaran\obj\Debug\nihatbaran.urunTanim.resources
+D:\NihatBaran\nihatbaran\obj\Debug\nihatbaran.FirmaTanim.resources
+D:\NihatBaran\nihatbaran\obj\Debug\nihatbaran.FirmaListesi.resources
+D:\NihatBaran\nihatbaran\obj\Debug\nihatbaran.MasaSatis.resources
+D:\NihatBaran\nihatbaran\obj\Debug\nihatbaran.FaturaSatis.resources
+D:\NihatBaran\nihatbaran\obj\Debug\nihatbaran.csproj.ResolveComReference.cache
+D:\nihatbaran - Kopya\nihatbaran\bin\Debug\nihatbaran.exe.config
+D:\nihatbaran - Kopya\nihatbaran\bin\Debug\nihatbaran.exe
+D:\nihatbaran - Kopya\nihatbaran\bin\Debug\nihatbaran.pdb
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.csproj.AssemblyReference.cache
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.csproj.SuggestedBindingRedirects.cache
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.csproj.ResolveComReference.cache
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.AnaForm.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FaturaSatis.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FirmaListesi.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FirmaTanim.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.MasaSatis.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.MusteriListesi.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.MusteriTanim.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.Properties.Resources.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.urunListesi.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.urunTanim.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.csproj.GenerateResource.cache
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.csproj.CoreCompileInputs.cache
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.exe
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.pdb
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.gelirGider.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.karZarar.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.StokTakip.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FaturaAlis.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FaturaAlisList.resources
+D:\nihatbaran - Kopya\nihatbaran\obj\Debug\nihatbaran.FaturaSatisList.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\bin\Debug\nihatbaran.exe.config
+D:\okul_projeler\Market_otomasyonu\nihatbaran\bin\Debug\nihatbaran.exe
+D:\okul_projeler\Market_otomasyonu\nihatbaran\bin\Debug\nihatbaran.pdb
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.csproj.AssemblyReference.cache
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.csproj.SuggestedBindingRedirects.cache
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.csproj.ResolveComReference.cache
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.AnaForm.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FaturaAlis.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FaturaAlisList.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FaturaSatis.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FaturaSatisList.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FirmaListesi.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.FirmaTanim.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.gelirGider.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.karZarar.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.MasaSatis.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.MusteriListesi.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.MusteriTanim.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.Properties.Resources.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.StokTakip.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.urunListesi.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.urunTanim.resources
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.csproj.GenerateResource.cache
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.csproj.CoreCompileInputs.cache
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.exe
+D:\okul_projeler\Market_otomasyonu\nihatbaran\obj\Debug\nihatbaran.pdb
