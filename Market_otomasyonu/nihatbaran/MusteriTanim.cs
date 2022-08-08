@@ -15,7 +15,7 @@ namespace nihatbaran
 {
     public partial class MusteriTanim : Form
     {
-        public string file_path = "D:/nihatbaran/test.xlsx";
+        public string file_path = "D:/okul_projeler/Market_otomasyonu/test.xlsx";
 
         public MusteriTanim()
         {

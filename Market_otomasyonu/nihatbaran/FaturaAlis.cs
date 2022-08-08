@@ -135,7 +135,7 @@ namespace nihatbaran
             for (int i = 1; i <= kayitsayisi; i++)
             {
                 AktifKayitDetay = (DataRowView)alisDetayBindingSource.Current;
-                AktifKayitDetay["FaturaAlisID"] = fustid;
+                AktifKayitDetay["FaturaAlisID"] = Fatura_id;
                 alisDetayBindingSource.MoveNext();
             }
             alisDetayBindingSource.EndEdit();
@@ -198,9 +198,10 @@ namespace nihatbaran
         private void ürünListesiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             uid = "-1";
+            urunListesi.gelenform = "Fatura Alış";
+
             urunListesi yeni = new urunListesi();
             yeni.ShowDialog();
-            urunListesi.gelenform = "Fatura Alış";
             if (uid != "-1")
             {
 
@@ -224,10 +225,10 @@ namespace nihatbaran
     private void müşteriListesiF8ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             mid = "-1";
+            MusteriListesi.gelenform = "Fatura Alış";
 
             MusteriListesi yeni = new MusteriListesi();
             yeni.ShowDialog();
-            MusteriListesi.gelenform = "Fatura Alış";
             if (mid != "-1")
             {
 

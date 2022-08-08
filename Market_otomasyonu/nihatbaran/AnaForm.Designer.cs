@@ -28,234 +28,257 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.tanımlarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.müşteriTanımToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ürünTanımToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.firmaTanımToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.listelerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.müşteriListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ürünListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.firmaListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.faturaAlisListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.faturaSatısListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.faturalarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.alışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.satışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.faturaAlışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.raporlamaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.stokTakipToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.karZararToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gelirGiderToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.label1 = new System.Windows.Forms.Label();
-            this.menuStrip1.SuspendLayout();
+            this.components = new System.ComponentModel.Container();
+            this.button1 = new System.Windows.Forms.Button();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.ürünTanımToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.müşteriTanımToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.firmaTanımToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.button2 = new System.Windows.Forms.Button();
+            this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.ürünListesiToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.müşteriListesiToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.faturaAlışListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.faturaSatışListesiToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.firmaListesiToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.button3 = new System.Windows.Forms.Button();
+            this.contextMenuStrip3 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.masaSatışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.faturaSatışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.faturaSatışToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.button4 = new System.Windows.Forms.Button();
+            this.contextMenuStrip4 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.stokTakipToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.karZararToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.gelirGiderToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1.SuspendLayout();
+            this.contextMenuStrip2.SuspendLayout();
+            this.contextMenuStrip3.SuspendLayout();
+            this.contextMenuStrip4.SuspendLayout();
             this.SuspendLayout();
             // 
-            // menuStrip1
+            // button1
             // 
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tanımlarToolStripMenuItem,
-            this.listelerToolStripMenuItem,
-            this.faturalarToolStripMenuItem,
-            this.raporlamaToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 28);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
+            this.button1.ContextMenuStrip = this.contextMenuStrip1;
+            this.button1.Location = new System.Drawing.Point(22, 189);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(152, 98);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Tanımlar";
+            this.button1.UseVisualStyleBackColor = true;
             // 
-            // tanımlarToolStripMenuItem
+            // contextMenuStrip1
             // 
-            this.tanımlarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.müşteriTanımToolStripMenuItem,
-            this.ürünTanımToolStripMenuItem,
-            this.firmaTanımToolStripMenuItem});
-            this.tanımlarToolStripMenuItem.Name = "tanımlarToolStripMenuItem";
-            this.tanımlarToolStripMenuItem.Size = new System.Drawing.Size(79, 24);
-            this.tanımlarToolStripMenuItem.Text = "Tanımlar";
+            this.contextMenuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ürünTanımToolStripMenuItem1,
+            this.müşteriTanımToolStripMenuItem1,
+            this.firmaTanımToolStripMenuItem1});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(171, 76);
             // 
-            // müşteriTanımToolStripMenuItem
+            // ürünTanımToolStripMenuItem1
             // 
-            this.müşteriTanımToolStripMenuItem.Name = "müşteriTanımToolStripMenuItem";
-            this.müşteriTanımToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
-            this.müşteriTanımToolStripMenuItem.Text = "Müşteri Tanım";
-            this.müşteriTanımToolStripMenuItem.Click += new System.EventHandler(this.müşteriTanımToolStripMenuItem_Click);
+            this.ürünTanımToolStripMenuItem1.Name = "ürünTanımToolStripMenuItem1";
+            this.ürünTanımToolStripMenuItem1.Size = new System.Drawing.Size(170, 24);
+            this.ürünTanımToolStripMenuItem1.Text = "Ürün Tanım";
+            this.ürünTanımToolStripMenuItem1.Click += new System.EventHandler(this.ürünTanımToolStripMenuItem1_Click);
             // 
-            // ürünTanımToolStripMenuItem
+            // müşteriTanımToolStripMenuItem1
             // 
-            this.ürünTanımToolStripMenuItem.Name = "ürünTanımToolStripMenuItem";
-            this.ürünTanımToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
-            this.ürünTanımToolStripMenuItem.Text = "Ürün Tanım";
-            this.ürünTanımToolStripMenuItem.Click += new System.EventHandler(this.ürünTanımToolStripMenuItem_Click);
+            this.müşteriTanımToolStripMenuItem1.Name = "müşteriTanımToolStripMenuItem1";
+            this.müşteriTanımToolStripMenuItem1.Size = new System.Drawing.Size(170, 24);
+            this.müşteriTanımToolStripMenuItem1.Text = "Müşteri Tanım";
+            this.müşteriTanımToolStripMenuItem1.Click += new System.EventHandler(this.müşteriTanımToolStripMenuItem1_Click);
             // 
-            // firmaTanımToolStripMenuItem
+            // firmaTanımToolStripMenuItem1
             // 
-            this.firmaTanımToolStripMenuItem.Name = "firmaTanımToolStripMenuItem";
-            this.firmaTanımToolStripMenuItem.Size = new System.Drawing.Size(184, 26);
-            this.firmaTanımToolStripMenuItem.Text = "Firma Tanım";
-            this.firmaTanımToolStripMenuItem.Click += new System.EventHandler(this.firmaTanımToolStripMenuItem_Click);
+            this.firmaTanımToolStripMenuItem1.Name = "firmaTanımToolStripMenuItem1";
+            this.firmaTanımToolStripMenuItem1.Size = new System.Drawing.Size(170, 24);
+            this.firmaTanımToolStripMenuItem1.Text = "Firma Tanım";
+            this.firmaTanımToolStripMenuItem1.Click += new System.EventHandler(this.firmaTanımToolStripMenuItem1_Click);
             // 
-            // listelerToolStripMenuItem
+            // button2
             // 
-            this.listelerToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.müşteriListesiToolStripMenuItem,
-            this.ürünListesiToolStripMenuItem,
-            this.firmaListesiToolStripMenuItem,
-            this.faturaAlisListesiToolStripMenuItem,
-            this.faturaSatısListesiToolStripMenuItem});
-            this.listelerToolStripMenuItem.Name = "listelerToolStripMenuItem";
-            this.listelerToolStripMenuItem.Size = new System.Drawing.Size(70, 24);
-            this.listelerToolStripMenuItem.Text = "Listeler";
+            this.button2.ContextMenuStrip = this.contextMenuStrip2;
+            this.button2.Location = new System.Drawing.Point(211, 189);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(152, 98);
+            this.button2.TabIndex = 2;
+            this.button2.Text = "Listeler";
+            this.button2.UseVisualStyleBackColor = true;
             // 
-            // müşteriListesiToolStripMenuItem
+            // contextMenuStrip2
             // 
-            this.müşteriListesiToolStripMenuItem.Name = "müşteriListesiToolStripMenuItem";
-            this.müşteriListesiToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.müşteriListesiToolStripMenuItem.Text = "Müşteri Listesi";
-            this.müşteriListesiToolStripMenuItem.Click += new System.EventHandler(this.müşteriListesiToolStripMenuItem_Click);
+            this.contextMenuStrip2.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip2.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ürünListesiToolStripMenuItem1,
+            this.müşteriListesiToolStripMenuItem1,
+            this.faturaAlışListesiToolStripMenuItem,
+            this.faturaSatışListesiToolStripMenuItem,
+            this.firmaListesiToolStripMenuItem1});
+            this.contextMenuStrip2.Name = "contextMenuStrip2";
+            this.contextMenuStrip2.Size = new System.Drawing.Size(198, 124);
             // 
-            // ürünListesiToolStripMenuItem
+            // ürünListesiToolStripMenuItem1
             // 
-            this.ürünListesiToolStripMenuItem.Name = "ürünListesiToolStripMenuItem";
-            this.ürünListesiToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.ürünListesiToolStripMenuItem.Text = "Ürün Listesi";
-            this.ürünListesiToolStripMenuItem.Click += new System.EventHandler(this.ürünListesiToolStripMenuItem_Click);
+            this.ürünListesiToolStripMenuItem1.Name = "ürünListesiToolStripMenuItem1";
+            this.ürünListesiToolStripMenuItem1.Size = new System.Drawing.Size(197, 24);
+            this.ürünListesiToolStripMenuItem1.Text = "Ürün Listesi";
+            this.ürünListesiToolStripMenuItem1.Click += new System.EventHandler(this.ürünListesiToolStripMenuItem1_Click);
             // 
-            // firmaListesiToolStripMenuItem
+            // müşteriListesiToolStripMenuItem1
             // 
-            this.firmaListesiToolStripMenuItem.Name = "firmaListesiToolStripMenuItem";
-            this.firmaListesiToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.firmaListesiToolStripMenuItem.Text = "Firma Listesi";
-            this.firmaListesiToolStripMenuItem.Click += new System.EventHandler(this.firmaListesiToolStripMenuItem_Click);
+            this.müşteriListesiToolStripMenuItem1.Name = "müşteriListesiToolStripMenuItem1";
+            this.müşteriListesiToolStripMenuItem1.Size = new System.Drawing.Size(197, 24);
+            this.müşteriListesiToolStripMenuItem1.Text = "Müşteri Listesi";
+            this.müşteriListesiToolStripMenuItem1.Click += new System.EventHandler(this.müşteriListesiToolStripMenuItem1_Click);
             // 
-            // faturaAlisListesiToolStripMenuItem
+            // faturaAlışListesiToolStripMenuItem
             // 
-            this.faturaAlisListesiToolStripMenuItem.Name = "faturaAlisListesiToolStripMenuItem";
-            this.faturaAlisListesiToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.faturaAlisListesiToolStripMenuItem.Text = "Fatura Alis Listesi";
-            this.faturaAlisListesiToolStripMenuItem.Click += new System.EventHandler(this.faturaAlisListesiToolStripMenuItem_Click);
+            this.faturaAlışListesiToolStripMenuItem.Name = "faturaAlışListesiToolStripMenuItem";
+            this.faturaAlışListesiToolStripMenuItem.Size = new System.Drawing.Size(197, 24);
+            this.faturaAlışListesiToolStripMenuItem.Text = "Fatura Alış Listesi";
+            this.faturaAlışListesiToolStripMenuItem.Click += new System.EventHandler(this.faturaAlışListesiToolStripMenuItem_Click);
             // 
-            // faturaSatısListesiToolStripMenuItem
+            // faturaSatışListesiToolStripMenuItem
             // 
-            this.faturaSatısListesiToolStripMenuItem.Name = "faturaSatısListesiToolStripMenuItem";
-            this.faturaSatısListesiToolStripMenuItem.Size = new System.Drawing.Size(211, 26);
-            this.faturaSatısListesiToolStripMenuItem.Text = "Fatura Satıs Listesi";
-            this.faturaSatısListesiToolStripMenuItem.Click += new System.EventHandler(this.faturaSatısListesiToolStripMenuItem_Click);
+            this.faturaSatışListesiToolStripMenuItem.Name = "faturaSatışListesiToolStripMenuItem";
+            this.faturaSatışListesiToolStripMenuItem.Size = new System.Drawing.Size(197, 24);
+            this.faturaSatışListesiToolStripMenuItem.Text = "Fatura Satış Listesi";
+            this.faturaSatışListesiToolStripMenuItem.Click += new System.EventHandler(this.faturaSatışListesiToolStripMenuItem_Click);
             // 
-            // faturalarToolStripMenuItem
+            // firmaListesiToolStripMenuItem1
             // 
-            this.faturalarToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.alışToolStripMenuItem,
-            this.satışToolStripMenuItem,
-            this.faturaAlışToolStripMenuItem});
-            this.faturalarToolStripMenuItem.Name = "faturalarToolStripMenuItem";
-            this.faturalarToolStripMenuItem.Size = new System.Drawing.Size(54, 24);
-            this.faturalarToolStripMenuItem.Text = "Satış";
+            this.firmaListesiToolStripMenuItem1.Name = "firmaListesiToolStripMenuItem1";
+            this.firmaListesiToolStripMenuItem1.Size = new System.Drawing.Size(197, 24);
+            this.firmaListesiToolStripMenuItem1.Text = "Firma Listesi";
+            this.firmaListesiToolStripMenuItem1.Click += new System.EventHandler(this.firmaListesiToolStripMenuItem1_Click);
             // 
-            // alışToolStripMenuItem
+            // button3
             // 
-            this.alışToolStripMenuItem.Name = "alışToolStripMenuItem";
-            this.alışToolStripMenuItem.Size = new System.Drawing.Size(167, 26);
-            this.alışToolStripMenuItem.Text = "Masa Satış";
-            this.alışToolStripMenuItem.Click += new System.EventHandler(this.alışToolStripMenuItem_Click);
+            this.button3.ContextMenuStrip = this.contextMenuStrip3;
+            this.button3.Location = new System.Drawing.Point(411, 189);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(152, 98);
+            this.button3.TabIndex = 3;
+            this.button3.Text = "Satış-Alış";
+            this.button3.UseVisualStyleBackColor = true;
             // 
-            // satışToolStripMenuItem
+            // contextMenuStrip3
             // 
-            this.satışToolStripMenuItem.Name = "satışToolStripMenuItem";
-            this.satışToolStripMenuItem.Size = new System.Drawing.Size(167, 26);
-            this.satışToolStripMenuItem.Text = "Fatura Satış";
-            this.satışToolStripMenuItem.Click += new System.EventHandler(this.satışToolStripMenuItem_Click);
+            this.contextMenuStrip3.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip3.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.masaSatışToolStripMenuItem,
+            this.faturaSatışToolStripMenuItem,
+            this.faturaSatışToolStripMenuItem1});
+            this.contextMenuStrip3.Name = "contextMenuStrip3";
+            this.contextMenuStrip3.Size = new System.Drawing.Size(211, 104);
             // 
-            // faturaAlışToolStripMenuItem
+            // masaSatışToolStripMenuItem
             // 
-            this.faturaAlışToolStripMenuItem.Name = "faturaAlışToolStripMenuItem";
-            this.faturaAlışToolStripMenuItem.Size = new System.Drawing.Size(167, 26);
-            this.faturaAlışToolStripMenuItem.Text = "Fatura Alış";
-            this.faturaAlışToolStripMenuItem.Click += new System.EventHandler(this.faturaAlışToolStripMenuItem_Click);
+            this.masaSatışToolStripMenuItem.Name = "masaSatışToolStripMenuItem";
+            this.masaSatışToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.masaSatışToolStripMenuItem.Text = "Masa Satış";
+            this.masaSatışToolStripMenuItem.Click += new System.EventHandler(this.masaSatışToolStripMenuItem_Click);
             // 
-            // raporlamaToolStripMenuItem
+            // faturaSatışToolStripMenuItem
             // 
-            this.raporlamaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.stokTakipToolStripMenuItem,
-            this.karZararToolStripMenuItem,
-            this.gelirGiderToolStripMenuItem});
-            this.raporlamaToolStripMenuItem.Name = "raporlamaToolStripMenuItem";
-            this.raporlamaToolStripMenuItem.Size = new System.Drawing.Size(96, 24);
-            this.raporlamaToolStripMenuItem.Text = "Raporlama";
+            this.faturaSatışToolStripMenuItem.Name = "faturaSatışToolStripMenuItem";
+            this.faturaSatışToolStripMenuItem.Size = new System.Drawing.Size(210, 24);
+            this.faturaSatışToolStripMenuItem.Text = "Fatura Satış";
+            this.faturaSatışToolStripMenuItem.Click += new System.EventHandler(this.faturaSatışToolStripMenuItem_Click);
             // 
-            // stokTakipToolStripMenuItem
+            // faturaSatışToolStripMenuItem1
             // 
-            this.stokTakipToolStripMenuItem.Name = "stokTakipToolStripMenuItem";
-            this.stokTakipToolStripMenuItem.Size = new System.Drawing.Size(163, 26);
-            this.stokTakipToolStripMenuItem.Text = "Stok Takip";
-            this.stokTakipToolStripMenuItem.Click += new System.EventHandler(this.stokTakipToolStripMenuItem_Click);
+            this.faturaSatışToolStripMenuItem1.Name = "faturaSatışToolStripMenuItem1";
+            this.faturaSatışToolStripMenuItem1.Size = new System.Drawing.Size(210, 24);
+            this.faturaSatışToolStripMenuItem1.Text = "Fatura Alış";
+            this.faturaSatışToolStripMenuItem1.Click += new System.EventHandler(this.faturaSatışToolStripMenuItem1_Click);
             // 
-            // karZararToolStripMenuItem
+            // button4
             // 
-            this.karZararToolStripMenuItem.Name = "karZararToolStripMenuItem";
-            this.karZararToolStripMenuItem.Size = new System.Drawing.Size(163, 26);
-            this.karZararToolStripMenuItem.Text = "Kar Zarar";
-            this.karZararToolStripMenuItem.Click += new System.EventHandler(this.karZararToolStripMenuItem_Click);
+            this.button4.ContextMenuStrip = this.contextMenuStrip4;
+            this.button4.Location = new System.Drawing.Point(622, 189);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(152, 98);
+            this.button4.TabIndex = 4;
+            this.button4.Text = "Raporlama";
+            this.button4.UseVisualStyleBackColor = true;
             // 
-            // gelirGiderToolStripMenuItem
+            // contextMenuStrip4
             // 
-            this.gelirGiderToolStripMenuItem.Name = "gelirGiderToolStripMenuItem";
-            this.gelirGiderToolStripMenuItem.Size = new System.Drawing.Size(163, 26);
-            this.gelirGiderToolStripMenuItem.Text = "Gelir Gider";
-            this.gelirGiderToolStripMenuItem.Click += new System.EventHandler(this.gelirGiderToolStripMenuItem_Click);
+            this.contextMenuStrip4.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.contextMenuStrip4.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.stokTakipToolStripMenuItem1,
+            this.karZararToolStripMenuItem1,
+            this.gelirGiderToolStripMenuItem1});
+            this.contextMenuStrip4.Name = "contextMenuStrip4";
+            this.contextMenuStrip4.Size = new System.Drawing.Size(150, 76);
             // 
-            // label1
+            // stokTakipToolStripMenuItem1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Mistral", 72F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label1.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.label1.Location = new System.Drawing.Point(36, 76);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(716, 143);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Yusuf Özbek Cafe";
+            this.stokTakipToolStripMenuItem1.Name = "stokTakipToolStripMenuItem1";
+            this.stokTakipToolStripMenuItem1.Size = new System.Drawing.Size(210, 24);
+            this.stokTakipToolStripMenuItem1.Text = "Stok Takip";
+            this.stokTakipToolStripMenuItem1.Click += new System.EventHandler(this.stokTakipToolStripMenuItem1_Click);
+            // 
+            // karZararToolStripMenuItem1
+            // 
+            this.karZararToolStripMenuItem1.Name = "karZararToolStripMenuItem1";
+            this.karZararToolStripMenuItem1.Size = new System.Drawing.Size(210, 24);
+            this.karZararToolStripMenuItem1.Text = "Kar Zarar";
+            this.karZararToolStripMenuItem1.Click += new System.EventHandler(this.karZararToolStripMenuItem1_Click);
+            // 
+            // gelirGiderToolStripMenuItem1
+            // 
+            this.gelirGiderToolStripMenuItem1.Name = "gelirGiderToolStripMenuItem1";
+            this.gelirGiderToolStripMenuItem1.Size = new System.Drawing.Size(210, 24);
+            this.gelirGiderToolStripMenuItem1.Text = "Gelir Gider";
+            this.gelirGiderToolStripMenuItem1.Click += new System.EventHandler(this.gelirGiderToolStripMenuItem1_Click);
             // 
             // AnaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 582);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.menuStrip1);
-            this.MainMenuStrip = this.menuStrip1;
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Name = "AnaForm";
             this.Text = "Cafe Otomasyonu";
-            this.Load += new System.EventHandler(this.AnaForm_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
+            this.contextMenuStrip1.ResumeLayout(false);
+            this.contextMenuStrip2.ResumeLayout(false);
+            this.contextMenuStrip3.ResumeLayout(false);
+            this.contextMenuStrip4.ResumeLayout(false);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem tanımlarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem müşteriTanımToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ürünTanımToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem firmaTanımToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem listelerToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem müşteriListesiToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ürünListesiToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem firmaListesiToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem faturalarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem alışToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem satışToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem faturaAlışToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem faturaAlisListesiToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem faturaSatısListesiToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem raporlamaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem stokTakipToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem karZararToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem gelirGiderToolStripMenuItem;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem ürünTanımToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem müşteriTanımToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem firmaTanımToolStripMenuItem1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
+        private System.Windows.Forms.ToolStripMenuItem ürünListesiToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem müşteriListesiToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem faturaAlışListesiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem faturaSatışListesiToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem firmaListesiToolStripMenuItem1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip3;
+        private System.Windows.Forms.ToolStripMenuItem masaSatışToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem faturaSatışToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem faturaSatışToolStripMenuItem1;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip4;
+        private System.Windows.Forms.ToolStripMenuItem stokTakipToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem karZararToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem gelirGiderToolStripMenuItem1;
     }
 }
 

@@ -94,10 +94,10 @@ namespace nihatbaran
         private void müşteriListesiF8ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             mid = "-1";
+            MusteriListesi.gelenform = "Fatura Satış";
 
             MusteriListesi yeni = new MusteriListesi();
             yeni.ShowDialog();
-            MusteriListesi.gelenform = "Fatura Satış";
             if (mid != "-1")
             {
 
@@ -184,9 +184,10 @@ namespace nihatbaran
         private void ürünListesiToolStripMenuItem_Click(object sender, EventArgs e)
         {
             uid = "-1";
+            urunListesi.gelenform = "Fatura Satış";
+
             urunListesi yeni = new urunListesi();
             yeni.ShowDialog();
-            urunListesi.gelenform = "Fatura Satış";
             if (uid != "-1")
             {
 
@@ -208,14 +209,14 @@ namespace nihatbaran
 
         private void btnKaydet_Click(object sender, EventArgs e)
         {
-            String Fatura_id;
+            String fustid;
             int kayitsayisi;
             faturaSatisBindingSource.EndEdit();
             faturaSatisTableAdapter.Update(market_otomasyonuDataSet.FaturaSatis);
             market_otomasyonuDataSet.FaturaSatis.AcceptChanges();
 
             AktifKayitUst = (DataRowView)faturaSatisBindingSource.Current;
-            Fatura_id = AktifKayitUst["Fatura_id"].ToString();
+            fustid = AktifKayitUst["Fatura_id"].ToString();
             satisDetayBindingSource.MoveFirst();
             kayitsayisi = satisDetayBindingSource.Count;
             for (int i = 1; i <= kayitsayisi; i++)
